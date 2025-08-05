@@ -1,0 +1,14 @@
+{
+  "name": "watez",
+  "version": "1.0.0",
+  "description": "project wide tools",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,json,md}\""
+  },
+  "author": "'Watashi'",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
